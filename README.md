@@ -28,7 +28,7 @@ Hoje, meu foco é conseguir uma formação superior em Sistemas de Informação 
 #### Preventive
 * **O que é:** Projeto Interdiciplinar Escolar onde foi produzido um aplicativo que buscava conscientizar a população jovem e adulta sobre a importância de exames preventivos para a saúde própia e ajudar a marcar as datas desses exames dentro do própio aplicativo. Foi pretendido uma dinâmica onde o usuário pudesse marcar suas consultas e visualizar resultados diretamente no nosso aplicativo, mas acabou não sendo finalizada.
 * **Minha atuação:** Participei ativamente de todas as etapas (programação, design e prototipação), com nenhum destaque principal.
-* **Link do Repositório:** [Acessar nutrIA](https://github.com/HenriqueFerreira06/Preventive)
+* **Link do Repositório:** [Acessar Preventive](https://github.com/HenriqueFerreira06/Preventive)
 
 ---
 
