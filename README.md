@@ -1,8 +1,8 @@
 # Olá, eu sou João Pedro Nakazoni!
 
-Tenho formação como Técnico em Desenvolvimento de Sistemas. Sempre gostei muito da área da tecnologia e atualmente procuro criar soluções para resolver problemas reais usando código.
+Tenho formação como Técnico em Desenvolvimento de Sistemas e graduando em Sistemas de Informação na Universidade Presbiteriana Mackenzie (UPM). Sempre gostei muito da área da tecnologia e atualmente procuro criar soluções tecnológicas para resolver problemas reais.
 
-Hoje, meu foco é conseguir uma formação superior em Sistemas de Informação para poder adentrar de vez no mercado da Tecnologia, especificamente para trabalhar com o ecossistema de IAs, CRM e vendas.
+Hoje, meu foco é terminar minha formação superior em Sistemas de Informação para poder adentrar de vez no mercado da Tecnologia, especificamente para trabalhar com o ecossistema de IAs, CRM e vendas.
 
 ### Ferramentas e Tecnologias que utilizo
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
